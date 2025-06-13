@@ -97,6 +97,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayuresh1008&theme=radical" height="160"/>
 </p>
 
+### 🐍 Watch my contribution graph get eaten by a snake 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mayuresh1008/Mayuresh1008/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
 ---
 
 ✨ Thanks for visiting my profile! Let’s connect and build something great together!
