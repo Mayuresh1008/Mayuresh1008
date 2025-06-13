@@ -8,39 +8,44 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎯 I’m on a mission to become a **Fullstack Python Developer**
+- 🎯 I’m on a journey to become a **Fullstack Python Developer**
 - 🔥 Currently working on: `python-fullstack-roadmap` & real-world projects
 - ✍️ I’m learning **Flask**, **JavaScript**, **SQL**, **APIs**, and **Deployment**
 - 🎓 Background in Computer Science & self-taught coding 🔁
 - 🌱 Always learning, always leveling up
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Framework-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning-%23100DaysOfCode-27AE60?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Fullstack%20Python-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Motivation-Never%20Give%20Up-%23f97316?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vadodara%2C%20India-%23blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</p>
 ---
 
 ### 🧠 Skills & Tools:
 
-#### 💻 Languages
-`Python` `JavaScript` `HTML` `CSS` `SQL`
+**Languages & Frontend**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<br><br>
 
-#### ⚙️ Frameworks & Libraries
-`Flask` `Django` (learning) `Bootstrap` `Jinja2` `Pandas`
+**Frameworks & Libraries**  
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<br><br>
 
-#### 🗃️ Databases & Backend
-`SQLite` `PostgreSQL` `SQLAlchemy` `REST APIs`
+**Databases & APIs**  
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+<br><br>
 
-#### 🛠️ Tools & Platforms
-`Git` `GitHub` `VS Code` `Postman` `Render` `Railway`
+**Tools & Platforms**  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<br><br>
+
+**Learning & Journey**  
+<img src="https://img.shields.io/badge/100DaysOfCode-27AE60?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-Fullstack%20Python-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vadodara%2C%20India-%23007ACC?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 ---
 
