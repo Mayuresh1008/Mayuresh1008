@@ -76,12 +76,30 @@
 
 ---
 
-### 📈 GitHub Stats:
+### 🚧 Currently Working On
+
+- 💻 Completing **100 Days of Code: Python**
+- 🧠 Learning **Fullstack Development with Python**
+- 🏗️ Building real-world projects for portfolio
+- 📚 Practicing DSA and problem solving
+- 🌐 Enhancing my GitHub, LinkedIn & developer presence
+
+---
+
+### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayuresh1008&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh1008&layout=compact&theme=radical" alt="top langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayuresh1008&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh1008&layout=compact&theme=radical" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayuresh1008&theme=radical" height="160"/>
+</p>
+
+---
+
+✨ Thanks for visiting my profile! Let’s connect and build something great together!
 
 ---
 
