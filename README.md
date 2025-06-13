@@ -17,8 +17,7 @@
 
 ### 🧠 Skills & Tools:
 
-**Languages & Frontend**  
-
+**Languages & Frontend**  <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -46,7 +45,18 @@
 **Learning & Journey**  
 <img src="https://img.shields.io/badge/100DaysOfCode-27AE60?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Learning-Fullstack%20Python-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vadodara%2C%20India-%23007ACC?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+### 🌍 My Location & Availability
+
+📌 **Location:** Vadodara, India  
+🧑‍💻 **Status:** Open to Work (Remote + On-site)  
+⏰ **Timezone:** IST (GMT +5:30)
+
+<p>
+  <img src="https://img.shields.io/badge/Vadodara,%20India-007ACC?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=freelancer&logoColor=white"/>
+</p>
+
 
 ---
 
