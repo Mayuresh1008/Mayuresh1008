@@ -26,17 +26,20 @@
 <br><br>
 
 **Frameworks & Libraries**  
+<br>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <br><br>
 
 **Databases & APIs**  
+<br>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
 <br><br>
 
 **Tools & Platforms**  
+<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -44,6 +47,7 @@
 <br><br>
 
 **Learning & Journey**  
+<br>
 <img src="https://img.shields.io/badge/100DaysOfCode-27AE60?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Learning-Fullstack%20Python-orange?style=for-the-badge"/>
 
