@@ -2,7 +2,8 @@
 <h3 align="center">🚀 Fullstack Python Developer | Lifelong Learner 📚 | Tech Enthusiast 💻⚙️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A97B0&center=true&vCenter=true&width=600&lines=Building+my+Fullstack+Python+Journey...;Learning+every+single+day!;Frontend+%E2%9D%A4%EF%B8%8F+Backend+%E2%9D%A4%EF%B8%8F+Database+%E2%9D%A4%EF%B8%8F+DevOps;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A97B0&center=true&vCenter=true&width=600&lines=Building+my+Fullstack+Python+Journey...;Learning+every+single+day!;Frontend+%E2%9D%A4%EF%B8%8F+Backend+%E2%9D%A4%EF%B8%8F+Database;" alt="Typing SVG" />
+<!--+%E2%9D%A4%EF%B8%8F+DevOps-->
 </p>
 
 ---
