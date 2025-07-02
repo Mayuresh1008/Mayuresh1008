@@ -15,11 +15,6 @@
 - 🌱 Always learning, always leveling up
 ---
 
-### 🐍 Watch My GitHub Contribution Snake 🐍
-
-(https://raw.githubusercontent.com/Mayuresh1008/Mayuresh1008/output/github-contribution-grid-snake.svg)
-
-
 ### 🧠 Skills & Tools:
 
 **Languages & Frontend**  
