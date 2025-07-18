@@ -94,7 +94,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayureshpatil10)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MayureshPatil02)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayuresh.patil1008@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:themayureshpatil@gmail.com)
 
 ---
 
