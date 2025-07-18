@@ -57,8 +57,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mayuresh1008&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayuresh1008&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayuresh1008&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" />
+  <br /> <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayuresh1008&theme=radical&hide_border=false" />
+  <br /> <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh1008&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
