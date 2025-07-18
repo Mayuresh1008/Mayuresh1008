@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Aspiring DevOps & Python Fullstack Developer | Learning Frontend & Generative AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%F0%9F%92%96+Frontend+%F0%9F%92%96+Backend+%F0%9F%92%96+Database+%F0%9F%92%96+DevOps;Learning+Every+Day...;Building+real-world+projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=900&lines=💖+Frontend+💖+Backend+💖+Database+💖+DevOps;📚+Learning+every+day...;🚀+Building+real-world+projects!;⚙️+Automating+workflows+with+DevOps!" alt="Typing SVG" />
 </p>
+
 
 ---
 
