@@ -56,14 +56,21 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayuresh1008&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" />
-  <br /> <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayuresh1008&theme=radical&hide_border=false" />
-  <br /> <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh1008&layout=compact&theme=radical&hide_border=false" />
-</p>
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mayuresh1008&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayuresh1008&theme=radical&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh1008&langs_count=10&theme=radical&layout=donut&hide_border=false" />
+</p>
 ---
 
 ### 📫 Reach Me
