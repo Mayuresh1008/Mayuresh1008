@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayuresh Patil</h1>
 <h3 align="center">🚀 Aspiring DevOps & Python Fullstack Developer | Learning Frontend & Generative AI</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=900&lines=💖+Frontend+💖+Backend+💖+Database+💖+DevOps;📚+Learning+every+day...;🚀+Building+real-world+projects!;⚙️+Automating+workflows+with+DevOps!" alt="Typing SVG" />
-</p>
-
+<p align="center">   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&height=70&lines=Frontend+%E2%9D%A4+Backend+%E2%9D%A4+Database+%E2%9D%A4+DevOps;%F0%9F%93%9A+Learning+Every+Day....;%F0%9F%9A%80+Strengthening+Logic+with+Projects+%26+Practice;%E2%9A%99%EF%B8%8F+Automating+Workflows+using+DevOps" alt="Typing SVG" /> </p> 
 
 ---
 
