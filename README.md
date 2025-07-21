@@ -53,7 +53,7 @@
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-8A2BE2?logo=openai&logoColor=white)
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 
@@ -68,6 +68,8 @@
   </tr>
 </table>
 
+---
+-->
 
 ### 📫 Reach Me
 
