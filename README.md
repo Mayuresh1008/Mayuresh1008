@@ -75,7 +75,8 @@
 
 <p align="left"> <a href="mailto:themayureshpatil@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> </a> 
 <a href="https://linkedin.com/in/themayureshpatil" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>   
-<a href="https://github.com/Mayuresh1008" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> </a> </p>
+<a href="https://github.com/Mayuresh1008" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> </a> 
+<a href="https://twitter.com/impatilmayuresh" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%40impatilmayuresh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt="Twiiter Badge"/></a></p>
 
 ---
 
