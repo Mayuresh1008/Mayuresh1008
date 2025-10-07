@@ -12,7 +12,7 @@
 - 🧠 Learning **Linux, Shell Scripting, Docker, Jenkins, AWS, GitHub Actions**  
 - 🌐 Exploring frontend with **HTML, CSS, JavaScript, React & Tailwind CSS**  
 - 🤖 Passionate about leveraging **Generative AI** to boost productivity and build smarter tools  
-- 📚 Following a 90-day custom-built Fullstack + DevOps roadmap 💪  
+- 📚 Following a custom-built Fullstack + DevOps roadmap 💪  
 
 ---
 
